@@ -1,0 +1,9 @@
+2021-10-21 15:13:25 INFO  test:27 - Giris yapildi.
+2021-10-21 15:13:26 INFO  test:30 - pantolon aratildi.
+2021-10-21 15:13:31 INFO  test:22 - Daha fazla urun gor
+2021-10-21 15:13:34 INFO  test:44 - Rastgele bir urun secildi
+2021-10-21 15:13:36 INFO  test:48 - urun sepete eklendi
+2021-10-21 15:13:39 INFO  test:17 - Sepete gidilir
+2021-10-21 15:13:39 INFO  test:30 - Urun fiyati karsilastirildi. Urun fiyatı : 119,99 TLSepet fiyatı:119,99 TL
+2021-10-21 15:13:41 INFO  test:35 - Sepetteki urunler silinir
+2021-10-21 15:13:41 INFO  test:49 - ---------Test bitti --------
